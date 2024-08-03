@@ -1,5 +1,6 @@
 # Ignore large files
 datasets/
+images/
 
 Cell_Phones_and_Accessories_5.json
 word2vec-amazon-cell-accessories-review-short.model
