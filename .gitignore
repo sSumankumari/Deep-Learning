@@ -8,6 +8,7 @@ saved_models/
 saved_model/
 tflite_model.tflite
 tflite_quant_model.tflite
+tflite_qaware_model.tflite
 
 Cell_Phones_and_Accessories_5.json
 word2vec-amazon-cell-accessories-review-short.model
